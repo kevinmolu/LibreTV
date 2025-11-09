@@ -7,18 +7,10 @@ const CUSTOMER_SITES = {
     mzzy: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',
-        type: 'json',
-        searchable: 1,
-        quickSearch: 1,
-        filterable: 1
     },
     ffzy: {
         api: 'https://api.feifeicms.org/api.php/provide/vod',
         name: '飞飞资源',
-        type: 'json',
-        searchable: 1,
-        quickSearch: 1,
-        filterable: 1
     }
 };
 
