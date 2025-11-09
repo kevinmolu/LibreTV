@@ -3,19 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '溪桥资源',
     }
- // 可以继续添加更多站点
-    mzzy: {
-        api: 'https://mozhuazy.com/api.php/provide/vod',
-        name: '魔爪资源',
-    },
-    ffzy: {
-        api: 'https://api.feifeicms.org/api.php/provide/vod',
-        name: '飞飞资源',
-    }
 };
-
-
-
 
 // 调用全局方法合并
 if (window.extendAPISites) {
